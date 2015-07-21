@@ -3,7 +3,10 @@ JavaScript function that uses jQuery to find the location of a page element rela
 
 Download using git clone:
 
-In terminal: git clone https://github.com/stevetwitte/distanceFromTop.js.git
+In terminal:
+```
+git clone https://github.com/stevetwitte/distanceFromTop.js.git
+```
 
 Load it after jQuery 1.x or 2.x as you would anything...
 
